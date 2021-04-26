@@ -1,0 +1,31 @@
+.completed {
+  background-color: #3f51b5;
+  width: 140px;
+  padding: 3px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.uncompleted {
+  background-color: #b6dffc;
+  width: 140px;
+  padding: 3px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.list {
+  background: rgb(102, 252, 241);
+  background: linear-gradient(50deg, #3f51b5 0%, #b6dffc 100%);
+  padding: 10px;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+h2 {
+  margin-left: 15px;
+}
+
+.list button {
+  font-size: 8px;
+}

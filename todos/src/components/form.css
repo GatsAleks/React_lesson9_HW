@@ -1,0 +1,28 @@
+.form {
+  margin-top: 15px;
+  margin-bottom: 25px;
+
+  background-color: #b6dffc;
+  width: 200px;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.button {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.button button {
+  margin-left: 5px;
+  font-size: 8px;
+}
+
+.form input {
+  border: 0;
+  border-radius: 5px;
+  width: 180px;
+  height: 25px;
+  margin-bottom: 15px;
+}
